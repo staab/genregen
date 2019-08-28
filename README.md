@@ -1,2 +1,2 @@
-[Demo](genregen.surge.sh)
+# [Demo](https://genregen.surge.sh)
 
